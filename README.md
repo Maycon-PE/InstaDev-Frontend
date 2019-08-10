@@ -1,10 +1,10 @@
 # Instagram-Frontend
-Done with the help by Diego Fernandes of Rocketseat. Omnitack 7.0 Project.
+Feito com a ajuda de Diego Fernandes da Rocketseat. *Semana OmniStack 7.0*.
 
-## Backend project
-- [Repository](https://github.com/Maycon-PE/Instagram-Backend)
+## Projeto server-side
+- [Repositório](https://github.com/Maycon-PE/Instagram-Backend).
 
-## Constructed with
-- `**react**`, frontend lib by Facebook;
-- `axios`, to do requests;
-- `socket.io-client`, client side to realtime.
+## Construido com ...
+- `**react**`, biblíoteca frontend criada pelo Facebook;
+- `axios`, fazendo requisições à API;
+- `socket.io-client`, lado do cliente no *realtime*.
