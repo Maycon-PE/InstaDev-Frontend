@@ -1,8 +1,9 @@
-# Instagram-Frontend
+# InstaDev-Frontend
 Feito com a ajuda de Diego Fernandes da Rocketseat. *Semana OmniStack 7.0*.
 
-## Projeto server-side
-- [Repositório](https://github.com/Maycon-PE/Instagram-Backend "Instagram-Backend").
+## Outros projetos
+- [API](https://github.com/Maycon-PE/InstaDev-Backend "InstaDev-Backend");
+- [Mobile] (https://github.com/Maycon-PE/InstaDev-Mobile "InstaDev-Mobile").
 
 ## Construido com ...
 - `**react**`, biblíoteca usada para o desenvolvimento da interface;
