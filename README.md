@@ -2,7 +2,7 @@
 Feito com a ajuda de Diego Fernandes da Rocketseat. *Semana OmniStack 7.0*.
 
 ## API
-- [Repositório](https://github.com/Maycon-PE/InstaDev-Backend "InstaDev-Backend");
+- [Repositório](https://github.com/Maycon-PE/InstaDev-Backend "InstaDev-Backend").
 
 ## Construido com ...
 - `**react**`, biblíoteca usada para o desenvolvimento da interface;
